@@ -4,8 +4,8 @@
 > 
 SINGLE ANSWER TEXT
 >
-- [x]  MULTIPLE ANWER TEXT
+- [x]  MULTIPLE ANSWER TEXT
 > 
- - [ ]  MULTIPLE ANWER TEXT
+- [ ]  MULTIPLE ANSWER TEXT
 
 ![meta](https://img.shields.io/badge/_meta-red.svg)    ![id](https://img.shields.io/badge/_id-123456-red.svg)    ![key](https://img.shields.io/badge/key-22c6bd811392459fa10f14dcf6c2b583-yellow.svg)    ![template_name](https://img.shields.io/badge/simple_question-v.0.1-yellow.svg)
