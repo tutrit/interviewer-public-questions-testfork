@@ -1,7 +1,6 @@
 ![tag](https://img.shields.io/badge/language-java-red.svg)   ![tag](https://img.shields.io/badge/jdk-1.8-blue.svg)     ![tag](https://img.shields.io/badge/level-1-green.svg)     ![tag](https://img.shields.io/badge/topic-%23OOP-green.svg)      ![tag](https://img.shields.io/badge/locale-en-green.svg)     ![question](https://img.shields.io/badge/-question-grey.svg) 
 
 # What are the main principles of OOP?
-
 >
 - **Encapsulation** - implementation hiding.
 - **Inheritance** - creating a new entity based on an existing one.

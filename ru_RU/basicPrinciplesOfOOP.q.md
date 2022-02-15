@@ -1,7 +1,7 @@
 ![tag](https://img.shields.io/badge/language-java-red.svg)   ![tag](https://img.shields.io/badge/jdk-1.8-blue.svg)     ![tag](https://img.shields.io/badge/level-1-green.svg)     ![tag](https://img.shields.io/badge/topic-OOP-green.svg)      ![tag](https://img.shields.io/badge/locale-ru-green.svg)     ![question](https://img.shields.io/badge/-question-grey.svg) 
 
 # Назовите основные принципы ООП.**
-
+>
 - **Инкапсуляция** - сокрытие реализации.
 - **Наследование** - создание новой сущности на базе уже существующей.
 - **Полиморфизм** - возможность иметь разные формы для одной и той же сущности.
