@@ -1,7 +1,7 @@
 ![tag](https://img.shields.io/badge/language-java-red.svg)   ![tag](https://img.shields.io/badge/jdk-1.8-blue.svg)     ![tag](https://img.shields.io/badge/level-1-green.svg)     ![tag](https://img.shields.io/badge/topic-OOP-green.svg)      ![tag](https://img.shields.io/badge/locale-en-green.svg)     ![question](https://img.shields.io/badge/-question-grey.svg) 
 
 # What is OOP?**
->
+<!--div-->
 **Object-oriented programming (OOP)** - is a programming methodology based on a program representation
 as a collection of objects, each of which is an instance of a certain class, and the classes form an inheritance hierarchy.
 
